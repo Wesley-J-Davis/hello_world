@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
-print ("Hello World")
-
+print ("Hello Earth")
+print ()
 def print_message(name='GitHub'):
   print(f"Welcome to the {name} repository")
 
